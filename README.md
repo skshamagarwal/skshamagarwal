@@ -2,7 +2,7 @@
 
 My name is Saksham Agarwal, a fellow coder who is here to enhance and explore the Tech World. I'm from Rajasthan, currently studying 🌱 in Pune. 
 
-📫 Find me on  &nbsp;&nbsp; [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-saksham/) &nbsp; [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_capable)
+📫 Find me on &nbsp; [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-saksham/) &nbsp; [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_capable)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
