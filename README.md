@@ -15,7 +15,6 @@ I'm from Rajasthan, currently studying 🌱 in Pune.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
-<br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/a-saksham/a-saksham">
