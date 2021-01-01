@@ -1,6 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Saksham Agarwal, a fellow coder who is here to enhance and explore the Tech World. I'm from Rajasthan, currently studying 🌱 in Pune. 
+My name is Saksham Agarwal, a fellow coder who is here to enhance and explore the Tech World. <br> 
+I'm from Rajasthan, currently studying 🌱 in Pune. 
 
 📫 Find me on &nbsp; [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-saksham/) &nbsp; [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_capable)
 
