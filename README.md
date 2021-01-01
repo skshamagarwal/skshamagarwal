@@ -1,7 +1,8 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Saksham Agarwal and I'm a fellow coder who is here to enhance and explore the Tech World. I'm from Rajasthan, currently studying 🌱 in Pune. You can find me 📫 on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-saksham/)](https://www.linkedin.com/in/-saksham/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skshamagarwal@gmail.com)](mailto:skshamagarwal@gmail.com)
- or on [HackerRank](https://www.hackerrank.com/skshamagarwal)
+My name is Saksham Agarwal and I'm a fellow coder who is here to enhance and explore the Tech World. I'm from Rajasthan, currently studying 🌱 in Pune. 
+
+You can find me 📫 on [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-saksham/)  [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal)  [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_capable)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
