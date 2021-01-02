@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289d9?style=flat-informational&logo=discord&logoColor=white)](https://discord.gg/kSnpQbaE) &nbsp;
 
 ### My name is Saksham Agarwal, a passionate coder who is here to enhance and explore the Tech World.
-
+<br>
 
 **👨🏻‍💻 &nbsp;About Me**
 
