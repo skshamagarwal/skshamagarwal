@@ -5,6 +5,7 @@
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/skshamagarwal) &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-informational&logo=twitter&logoColor=white)](https://twitter.com/skshamagarwal) &nbsp; 
 
 ### My name is Saksham Agarwal, a passionate coder who is here to enhance and explore the Tech World.
 <br>
