@@ -3,8 +3,8 @@
 [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skshamagarwal/) &nbsp; 
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-59331d?style=flat-informational&logo=codechef&logoColor=white)](https://www.codechef.com/users/skshamagarwal) &nbsp; 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/skshamagarwal/) &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
-[![Discord](https://img.shields.io/badge/-Discord-7289d9?style=flat-informational&logo=discord&logoColor=white)](https://discord.gg/kSnpQbaE) &nbsp;
 
 ### My name is Saksham Agarwal, a passionate coder who is here to enhance and explore the Tech World.
 <br>
