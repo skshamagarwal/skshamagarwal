@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-informational&logo=twitter&logoColor=white)](https://twitter.com/skshamagarwal) &nbsp; 
 
-### My name is Saksham Agarwal, a passionate coder who is here to enhance and explore the Tech World.
+### My name is Saksham Agarwal, a Programming enthusiast, Developer, Competitive Coder and a Third Year undergrad pursuing Bachelor's in Computer Science. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
 <br>
 
 **👨🏻‍💻 &nbsp;About Me**
