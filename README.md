@@ -16,7 +16,7 @@
 🎓 &nbsp;I'm currently pursuing B.Tech. (CSE).\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media and write Blogs as side hustles.\
-✉️ &nbsp;You can shoot me an email at skshamagarwal@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at skshamagarwal@gmail.com!
 
 
 ## 🔧 Technologies & Tools
@@ -42,6 +42,6 @@
 
 
 <!-- ## &#x1f4c8; GitHub Stats -->
-<!-- ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&theme=radical)
-&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshamagarwal&layout=compact&theme=radical&&langs_count=8)](https://github.com/skshamagarwal/github-readme-stats)
- -->
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshamagarwal&layout=compact&theme=radical&&langs_count=8)](https://github.com/skshamagarwal/github-readme-stats)
+
