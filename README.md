@@ -12,7 +12,7 @@
 
 **👨🏻‍💻 &nbsp;About Me**
 
-💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently pursuing B.Tech. (CSE).\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media and write Blogs as side hustles.\
@@ -21,28 +21,29 @@
 
 ## 🔧 Technologies & Tools
 <p align='center'>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Google%20Cloud%20Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a"/></a>
+  
 </p>
 
-<!--
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/a-saksham/skshamagarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saksham's GitHub Stats" />
-</a>
--->
+## &#x1f4c8; GitHub Stats
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&theme=radical)
+&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshamagarwal&layout=compact&theme=radical&&langs_count=8)](https://github.com/skshamagarwal/github-readme-stats)
+
+
+
