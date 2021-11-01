@@ -41,9 +41,7 @@
 </p>
 
 
-## &#x1f4c8; GitHub Stats
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&theme=radical)
+<!-- ## &#x1f4c8; GitHub Stats -->
+<!-- ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&show_icons=true&theme=radical)
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshamagarwal&layout=compact&theme=radical&&langs_count=8)](https://github.com/skshamagarwal/github-readme-stats)
-
-
-
+ -->
