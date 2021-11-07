@@ -12,7 +12,7 @@
 
 **👨🏻‍💻 &nbsp;About Me**
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently pursuing B.Tech. (CSE).\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media and write Blogs as side hustles.\
