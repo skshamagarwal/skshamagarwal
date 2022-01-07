@@ -44,6 +44,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skshamagarwal&layout=compact&theme=radical&&langs_count=8)](https://github.com/skshamagarwal/github-readme-stats)
 
+
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshamagarwal&theme=radical)
