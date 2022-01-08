@@ -23,7 +23,7 @@
 
 ## 🔧 Technologies & Tools
 <p align='center'>
-  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/></a>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
