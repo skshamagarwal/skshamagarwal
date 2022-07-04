@@ -1,4 +1,4 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! :wave:
 
 [![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://skshamagarwal.github.io/portfolio/) &nbsp; 
 [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skshamagarwal/) &nbsp; 
