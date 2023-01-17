@@ -8,7 +8,7 @@
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/skshamagarwal/) &nbsp; 
 
-### My name is Saksham Agarwal, a Programming enthusiast, Developer, Competitive Coder and a Third Year CS Undergrad. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
+### My name is Saksham Agarwal, a Programming enthusiast, Developer, Problem Solver and a Final Year CS Undergrad. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
 <br>
 
 **👨🏻‍💻 &nbsp;About Me**
