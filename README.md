@@ -8,13 +8,13 @@
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/skshamagarwal/) &nbsp; 
 
-### My name is Saksham Agarwal, a Programming enthusiast, Developer, Problem Solver and a Final Year CS Undergrad. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
+### My name is Saksham Agarwal, a Software Developer, Programming enthusiast, and Problem Solver. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
 <br>
 
 **👨🏻‍💻 &nbsp;About Me**
 
 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing B.Tech. (CSE).\
+🎓 &nbsp;I'm have completed B.Tech inComputer Science and currently a Software Developer [juspay.in](https://juspay.in/)\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media and write Blogs as side hustles.\
 ✉️ &nbsp;You can shoot me an email at skshamagarwal@gmail.com!
@@ -25,8 +25,10 @@
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Rescript-informational?style=flat&logo=rescript&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/skshamagarwal"><img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a"/></a>
